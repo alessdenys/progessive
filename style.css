@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    width: 98%;
+}
+a{
+    color: purple;
+}
+img{
+    max-width: 32vw;
+}
+.sendbutton{
+    width: 10vw;
+}
